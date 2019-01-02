@@ -1,0 +1,272 @@
+@charset "utf-8";
+/* CSS Document */
+.nave{background-color:#09F;
+      color:#FFF;
+	  margin-bottom:-0px;
+	  border:0px;
+	  border-radius:0px;
+	  z-index:1}
+	  
+.affix {width:100%}  
+.navbar-default .navbar-nav>li>a {
+    color: #FFF;
+	
+}
+
+
+.btt{height:34px;}
+
+
+
+
+.body{height:auto;
+      background-color:#FFF;
+	  color:#000;
+	  padding-top:30px;}
+	  
+	  
+.body1{height:auto;
+       background-color:#FFF;
+	   font-size:34px;
+	   font-style: italic;
+	   padding-top:5px;
+	   color:#000;
+	   margin-top:10px;}
+	   
+.body2{height:auto;
+       background-color:#FFF;
+	   color:#000;
+	   font-size:22px;
+	   padding-top:3px;
+	   margin-top:10px;
+	   }	   
+.body3{height:375px;
+       background-color:#FFF;
+	    margin-top:15px;}
+
+
+
+.body4{height:250px;
+       background-color:#FFF;
+	    margin-top:15px;}
+
+
+.body5{height:250px;
+       background-color:#FFF;
+       float:right;
+	   margin-top:10px;
+}
+
+.body6{height:375px;
+      background-color:#FFF;
+       margin-top:20px;
+}
+
+.body7{height:250px;
+       background-color:#FFF;
+       margin-top:10px;
+}
+
+
+	  
+.body8{height:auto;
+       background-color:#FFF;
+	   font-size:34px;
+	   font-style: italic;
+	   padding-top:38px;
+	   color:#000;
+	   margin-top:10px;}
+	   
+.body9{height:auto;
+       background-color:#FFF;
+	   color:#000;
+	   font-size:22px;
+	   padding-top:20px;
+	   margin-top:20px;
+	   
+	   }	   
+
+.body10{height:350px;
+       background-color:#FFF;
+	   margin-top:20px;}
+
+.body11{height:350px;
+       background-color:#FFF;
+	   margin-top:20px;
+	    }
+
+.body12{height:350px;
+       background-color:#FFF;
+	   margin-top:20px;}
+
+.body13{height:350px;
+       background-color:#FFF;
+	   margin-top:20px;
+	   overflow:hidden;}
+	   
+	   
+	   
+.body14{height:85px;
+       background-color:#FFF;
+	   font-size:34px;
+	   font-style: italic;
+	   padding-top:38px;
+	   color:#000;
+	   margin-top:10px;}
+	   
+.body15{height:80px;
+       background-color:#FFF;
+	   color:#000;
+	   font-size:22px;
+	   padding-top:20px;
+	   margin-top:10px;
+	   }	   
+	   
+.body16{height:600px;
+       background-color:#FFF;
+	   margin-top:10px;
+	 
+	 
+	   }	   
+
+
+	   
+.body17{height:85px;
+       background-color:#FFF;
+	   font-size:34px;
+	   font-style: italic;
+	   padding-top:38px;
+	   color:#000;
+	   margin-top:10px;}
+	   
+.body18{height:80px;
+       background-color:#FFF;
+	   color:#000;
+	   font-size:22px;
+	   padding-top:20px;
+	   margin-top:10px;
+	   }	 
+
+
+.body19{height:410px;
+       background-color:#FFF;
+	    margin-top:10px;}	   
+	   
+.body20{height:200px;
+       background-color:#FFF;
+	   margin-bottom:10px;
+	    margin-top:10px;}	   
+	   
+.body21{height:200px;
+       background-color:#FFF;
+	   overflow:hidden;}	   
+	   
+.body22{height:auto;
+       background-color:#0076a3;
+	   margin-top:40px;}
+	   	   
+.body23{height:70px;
+      
+	   font-size:34px;
+	   font-style: italic;
+	   padding-top:10px;
+	   color:#FFF;}
+	   
+.body24{height:30px;
+       font-size:22px;
+		color:#FFF;}	   
+	   	   
+.body25{height:350px;
+       
+	   padding-top:50px;
+	  }	   
+	   
+.body26{height:350px;
+padding-top:50px;
+      
+	  }	
+	  
+	     
+.button	{width:100%;}  
+	  
+	  
+.body27{height:auto;
+       background-color:#252525;
+	  }		  
+	  
+.body28{height:150px;
+      color:#FFF;
+	  padding-top:70px;
+     
+	  }		  
+	  
+	  
+.body29{height:150px;
+        color:#FFF;
+	    padding-top:40px;
+	  }		  
+.body30{height:200px;
+        color:#FFF;
+	  padding-top:40px;
+	  }		  
+	  	  	  
+.body31{height:250px;
+        color:#FFF;
+	     padding-top:40px;
+	  }		  
+#sell{margin-top:10px;}	  	  
+
+.bfooter1{height:20px;
+          padding:0px;
+		  margin-top:10px;}
+
+
+.bfooter2{height:20px;
+          padding:0px;
+		  margin-top:10px; }
+
+.bfooter3{height:20px;
+          padding:0px;
+		  margin-top:10px;}
+		 
+.bfooter4{height:20px;
+          padding:0px;
+		  margin-top:10px;}
+		
+.foter{margin-top:25px;
+       font-size:17px;
+        list-style:none;}		
+		
+.botem{margin-bottom:10px}		
+			   
+.dk{margin-top:8px;}	
+
+
+@media only screen and (max-width: 500px) {
+   
+   
+ .body16{height:auto;
+       background-color:#FFF;
+	   margin-top:10px;
+	 
+	 
+	   }
+  
+   
+   
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+   	   
